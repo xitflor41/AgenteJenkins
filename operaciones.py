@@ -26,5 +26,6 @@ p=promediar(datos)
 print(f"El promedio de los datos es", p)
 
 cant=contar_org("Organization_v3.csv")
-print(f"La cantidad de organizaciones es", cant)
+print("La cantidad de organizaciones es", cant)
+
 
