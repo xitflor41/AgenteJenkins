@@ -15,7 +15,7 @@ pipeline {
 
         stage('Descarga'){
             steps{
-                git url:'https://github.com/xitflor41/Jenkins-python.git', branch:'main'
+                git url:'https://github.com/xitflor41/AgenteJenkins.git', branch:'main'
             }
         }
 
